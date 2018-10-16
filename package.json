@@ -1,0 +1,22 @@
+{
+  "name": "file-rename",
+  "version": "1.0.0",
+  "description": "cleanup movie folder names",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chergott/file-rename.git"
+  },
+  "author": "Connor Hergott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chergott/file-rename/issues"
+  },
+  "homepage": "https://github.com/chergott/file-rename#readme",
+  "dependencies": {
+    "get-folder-size": "^2.0.0"
+  }
+}
