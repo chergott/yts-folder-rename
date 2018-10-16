@@ -8,10 +8,7 @@ const DEFAULT_720P_DIR = 'M:/Video/Movies';
 const DEFAULT_1080P_DIR = 'R:/Video/Movies';
 const MOVIE_DIRECTORIES = [DEFAULT_720P_DIR, DEFAULT_1080P_DIR];
 
-const DIR = 'C:\Users\CHergott\Downloads\_qBittorrent\Makes - Models Photos';
-
-const DIRECTORIES = [DIR];
-// const DIRECTORIES = MOVIE_DIRECTORIES;
+const DIRECTORIES = MOVIE_DIRECTORIES;
 
 DIRECTORIES.forEach(directory => {
 
